@@ -15,6 +15,13 @@ Budget Tracker application to allow for offline access and functionality.
   To install use the following code:
    npm i
 
+  # Screenshots
+    Online Behavior
+   <img src="./assets/OnlineSS.PNG">
+    Offline Behavior
+   <img src="./assets/OfflineSS.PNG">
+  
+
   # Usage
   use git clone
   
